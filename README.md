@@ -1,14 +1,9 @@
 # NO-VJ
 Live coding with javascript and webgl
 
-## Screenshots
-### User interface
-<img src="documentation/img%20(1).png" width="520px">
-<img src="documentation/img%20(2).png" width="520px">
-<img src="documentation/img%20(3).png" width="520px">
+**This repo has no code, using it as spot to refere to: just some links to references and some screenshots**
 
-### Projection display
-<img src="documentation/img%20(4).png" width="520px">
+May be something to stress is the use of the [clubber](https://github.com/wizgrav/clubber) library so as to synchronize visuals to audio, no one in the *live coding* scene seems to use it (please open an issue -or not, ha ha- if you use clubber in a live coding environment).
 
 ## References and inspiration
 
@@ -26,3 +21,14 @@ Live coding with javascript and webgl
 
 ### Shadertoy
 [online app](https://www.shadertoy.com/)
+
+
+## Screenshots
+### User interface
+<img src="documentation/img%20(1).png" width="520px">
+<img src="documentation/img%20(2).png" width="520px">
+<img src="documentation/img%20(3).png" width="520px">
+
+### Projection display
+<img src="documentation/img%20(4).png" width="520px">
+
